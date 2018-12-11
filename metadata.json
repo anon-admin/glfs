@@ -1,0 +1,17 @@
+{
+  "author": "",
+  "dependencies": [,
+		{
+			"name": "trusty/conf",
+			"version_requirement": ">= 0.1.0"
+		}],
+  "license": "",
+  "name": "trusty-glfs",
+  "operatingsystem_support": [],
+  "project_page": "",
+  "requirements": [],
+  "source": "",
+  "summary": "",
+  "tags": [],
+  "version": "0.1.0"
+}
